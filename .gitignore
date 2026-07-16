@@ -1,5 +1,2 @@
 # ide
 .idea
-
-# build directories
-/cmake-build-*/
